@@ -1,0 +1,49 @@
+[
+    {
+       "title":"Wild craft",
+       "id":1000,
+       "pic":"https://cdn.sweatband.com/head_sprint_pro_2.0_mens_tennis_shoes_head_sprint_pro_2.0_mens_tennis_shoes_2000x2000.jpg",
+       "price":1500,
+       "details":"Men’s essential shoes for men can be classified as footwear that should be a part of every wardrobe. Some of them include casual sneakers, oxfords, derbys, loafers, kolhapuris, slip-ons, etc. The major reason behind the popularity of these shoes for men is that they are essentially timeless."
+
+
+
+    },
+    {
+        "title":"Action",
+        "id":1001,
+        "pic":"https://cdna.lystit.com/photos/puma/f17598bb/puma-QUIET-SHADE-Puma-Black-Viz-Runner-Mens-Running-Shoes.jpeg",
+        "price":900,
+        "details":"Men’s essential shoes for men can be classified as footwear that should be a part of every wardrobe. Some of them include casual sneakers, oxfords, derbys, loafers, kolhapuris, slip-ons, etc. The major reason behind the popularity of these shoes for men is that they are essentially timeless."
+    },
+
+    {
+        "title":"Campus",
+        "id":1002,
+        "pic":"https://i5.walmartimages.com/asr/4a5e028f-1b6c-49a8-b46f-fb751b6e4106_1.27bffd77b09c8192810881601f590027.jpeg",
+        "price":2800,
+        "details":"Men’s essential shoes for men can be classified as footwear that should be a part of every wardrobe. Some of them include casual sneakers, oxfords, derbys, loafers, kolhapuris, slip-ons, etc. The major reason behind the popularity of these shoes for men is that they are essentially timeless."
+    },
+    {
+        "title":"Puma",
+        "id":1003,
+        "pic":"https://i5.walmartimages.com/asr/9663845c-59cf-4bad-9c49-19a6653900f4_1.f4e8fac64f91406400caace97d989579.jpeg",
+        "price":4850,
+        "details":"Men’s essential shoes for men can be classified as footwear that should be a part of every wardrobe. Some of them include casual sneakers, oxfords, derbys, loafers, kolhapuris, slip-ons, etc. The major reason behind the popularity of these shoes for men is that they are essentially timeless."
+
+    },
+    {
+        "title":"Axios",
+        "id":1004,
+        "pic":"https://brobible.com/wp-content/uploads/2016/07/best-boat-shoes-for-men-11.jpg?resize=300",
+        "price":12000,
+        "details":"Men’s essential shoes for men can be classified as footwear that should be a part of every wardrobe. Some of them include casual sneakers, oxfords, derbys, loafers, kolhapuris, slip-ons, etc. The major reason behind the popularity of these shoes for men is that they are essentially timeless."
+    },
+    {
+        "title":"Sparks",
+        "id":1005,
+        "pic":"https://cdn.sweatband.com/head_sprint_pro_2.0_mens_tennis_shoes_head_sprint_pro_2.0_mens_tennis_shoes_-_back_2000x2000.jpg",
+        "price":5000,
+        "details":"Men’s essential shoes for men can be classified as footwear that should be a part of every wardrobe. Some of them include casual sneakers, oxfords, derbys, loafers, kolhapuris, slip-ons, etc. The major reason behind the popularity of these shoes for men is that they are essentially timeless."
+    }
+]
